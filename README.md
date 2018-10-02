@@ -16,26 +16,12 @@
 
 #### Mall
 
-##### Dag 4...
-
-##### Dag 3...
-
-##### Dag 2: Onsdag 3.10
-
-Projekt: Avslutade google-clone
-
-Reflektioner: Börjar förstå flexbox bättre. Borde göra en övning med flexbox. Klonen blev riktigt bra!
-
-Bild:
-
-![Google-clone](/images/logo.png)
-
 ##### Dag 1: Tisdag 2.10
 
-Projekt: Påbörjade google-clone övning i skolan
+Projekt: product landing page
 
-Reflektioner: Behöver lära mig mera om CSS Flexbox. Tror jag använder "flex containrar" för ofta.
+Reflektioner: svårt att jobba i grupp ennu men det kommer säkert gå bra destu mera man jobbar med varandra
 
 Länkar:
 
-- www.codepen.com/8128973189273
+-https://github.com/alfredriddar/Product-Landing-Page
